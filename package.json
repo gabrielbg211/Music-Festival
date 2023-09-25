@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sass": "^1.68.0"
+  },
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "Pagina de Festival Musical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Bustos",
+  "license": "ISC"
+}
